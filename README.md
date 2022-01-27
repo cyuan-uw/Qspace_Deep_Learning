@@ -2,7 +2,9 @@
 
 https://user-images.githubusercontent.com/1512443/147379103-f3d80ff6-dcac-440b-b829-2111cfb685ae.mov
 
-This repository provides implementation codes for "Jointly estimating parametric maps of multiple diffusion models from undersampled q-space data: A comparison of three deep learning approaches."
+This repository provides implementation codes for "Jointly estimating parametric maps of multiple diffusion models from undersampled q-space data: A comparison of three deep learning approaches." If you use the codes in this repository in your work, please cite it using:
+
+
 
 ## Setting up a Python env and installing required packages
 
